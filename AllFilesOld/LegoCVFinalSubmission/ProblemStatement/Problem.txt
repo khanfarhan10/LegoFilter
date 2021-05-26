@@ -1,0 +1,12 @@
+Link is given to the ready code, you’ll just need to adjust the outcome image as in 
+the example utilizing the same or really similar colors.
+Here is the link with the code and guidance: 
+https://github.com/JuanPotato/Legofy
+
+You basically need to adjust the code given above to get the following image :
+The first one (girl image) was original one, the second - desired outcome 
+( the color range has to be not necessarily 100 percent identical, but at least really similar to the example )
+And the outcome should be available in two sizes : 
+4900 pixels (70*70), and 11025 pixels (105*105).
+
+

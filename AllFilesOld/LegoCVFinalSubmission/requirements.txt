@@ -1,0 +1,3 @@
+legofy==1.0.0
+ipykernel 
+opencv-python

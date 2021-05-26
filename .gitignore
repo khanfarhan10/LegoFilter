@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+*Gen*/
+*.zip
+Img701025/
+NoProblemStatement/
+
 # Distribution / packaging
 .Python
 build/
